@@ -14,7 +14,7 @@ Connect with me via
 
 ## Array
 
-| #   | Title                                                           | Solution                                                                                                                                      | Difficulty |
-|-----|-----------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|------------|
-| 01  | Contains Duplicates                                             | [Solution](https://github.com/ani03sha/LeetcodePatterns/blob/main/src/main/java/org/redquark/leetcode/patterns/arrays/ContainsDuplicate.java) | Easy       |
-| 02  | [Missing Number](https://leetcode.com/problems/missing-number/) | [Solution](https://github.com/ani03sha/LeetcodePatterns/blob/main/src/main/java/org/redquark/leetcode/patterns/arrays/MissingNumber.java)     | Easy       |
+| #   | Title                                                                    | Solution                                                                                                                                      | Difficulty |
+|-----|--------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|------------|
+| 01  | [Contains Duplicates](https://leetcode.com/problems/contains-duplicate/) | [Solution](https://github.com/ani03sha/LeetcodePatterns/blob/main/src/main/java/org/redquark/leetcode/patterns/arrays/ContainsDuplicate.java) | Easy       |
+| 02  | [Missing Number](https://leetcode.com/problems/missing-number/)          | [Solution](https://github.com/ani03sha/LeetcodePatterns/blob/main/src/main/java/org/redquark/leetcode/patterns/arrays/MissingNumber.java)     | Easy       |
