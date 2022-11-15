@@ -14,6 +14,6 @@ Connect with me via
 
 ## Array
 
-| #   | Title | Solutions | Difficulty | Tag |
-|-----|-------|-----------|------------|-----|
-|     |       |           |            |     |
+| #   | Title               | Solution                                                                                                                                      | Difficulty |
+|-----|---------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|------------|
+| 01  | Contains Duplicates | [Solution](https://github.com/ani03sha/LeetcodePatterns/blob/main/src/main/java/org/redquark/leetcode/patterns/arrays/ContainsDuplicate.java) | Easy       |
