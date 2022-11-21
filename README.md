@@ -30,7 +30,7 @@ Connect with me via
 | 12  | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)                               | [Solution](https://github.com/ani03sha/LeetcodePatterns/blob/main/src/main/java/org/redquark/leetcode/patterns/arrays/LongestConsecutiveSequence.java)         | Medium     |
 | 13  | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)                                           | [Solution](https://github.com/ani03sha/LeetcodePatterns/blob/main/src/main/java/org/redquark/leetcode/patterns/arrays/FirstMissingPositive.java)               | Medium     |
 
-## Bradth First Search (BFS)
+## Breadth First Search (BFS)
 
 | #   | Title                                                                                              | Solution                                                                                                                                             | Difficulty |
 |-----|----------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
