@@ -29,3 +29,9 @@ Connect with me via
 | 11  | [Rotate Image](https://leetcode.com/problems/rotate-image/)                                                               | [Solution](https://github.com/ani03sha/LeetcodePatterns/blob/main/src/main/java/org/redquark/leetcode/patterns/arrays/RotateImage.java)                        | Medium     |
 | 12  | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)                               | [Solution](https://github.com/ani03sha/LeetcodePatterns/blob/main/src/main/java/org/redquark/leetcode/patterns/arrays/LongestConsecutiveSequence.java)         | Medium     |
 | 13  | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)                                           | [Solution](https://github.com/ani03sha/LeetcodePatterns/blob/main/src/main/java/org/redquark/leetcode/patterns/arrays/FirstMissingPositive.java)               | Medium     |
+
+## Bradth First Search (BFS)
+
+| #   | Title                                                                                              | Solution                                                                                                                                             | Difficulty |
+|-----|----------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
+| 01  | [Average Of Levels In Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree) | [Solution](https://github.com/ani03sha/LeetcodePatterns/blob/main/src/main/java/org/redquark/leetcode/patterns/bfs/AverageOfLevelsInBinaryTree.java) | Easy       |
