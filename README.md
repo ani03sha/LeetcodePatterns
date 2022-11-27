@@ -51,3 +51,9 @@ Connect with me via
 | 15  | [Populating Next Right Pointers In Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)               | [Solution](https://github.com/ani03sha/LeetcodePatterns/blob/main/src/main/java/org/redquark/leetcode/patterns/bfs/PopulatingNextRightPointersInEachNodeII.java)        | Medium     |
 | 16  | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)                                                     | [Solution](https://github.com/ani03sha/LeetcodePatterns/blob/main/src/main/java/org/redquark/leetcode/patterns/bfs/BinaryTreeRightSideView.java)                        | Medium     |
 | 17  | [All Nodes Distance K In Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/)                                     | [Solution](https://github.com/ani03sha/LeetcodePatterns/blob/main/src/main/java/org/redquark/leetcode/patterns/bfs/AllNodesDistanceKInBinaryTree.java)                  | Medium     |
+
+## Backtracking
+
+| #   | Title                                                     | Solution                                                                                                                                     | Difficulty |
+|-----|-----------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|------------|
+| 01  | [Word Search](https://leetcode.com/problems/word-search/) | [Solution](https://github.com/ani03sha/LeetcodePatterns/blob/main/src/main/java/org/redquark/leetcode/patterns/backtracking/WordSearch.java) | Easy       |
