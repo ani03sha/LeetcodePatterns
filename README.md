@@ -54,6 +54,7 @@ Connect with me via
 
 ## Backtracking
 
-| #   | Title                                                     | Solution                                                                                                                                     | Difficulty |
-|-----|-----------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|------------|
-| 01  | [Word Search](https://leetcode.com/problems/word-search/) | [Solution](https://github.com/ani03sha/LeetcodePatterns/blob/main/src/main/java/org/redquark/leetcode/patterns/backtracking/WordSearch.java) | Easy       |
+| #   | Title                                                                             | Solution                                                                                                                                                | Difficulty |
+|-----|-----------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
+| 01  | [Word Search](https://leetcode.com/problems/word-search/)                         | [Solution](https://github.com/ani03sha/LeetcodePatterns/blob/main/src/main/java/org/redquark/leetcode/patterns/backtracking/WordSearch.java)            | Medium     |
+| 01  | [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/) | [Solution](https://github.com/ani03sha/LeetcodePatterns/blob/main/src/main/java/org/redquark/leetcode/patterns/backtracking/LetterCasePermutation.java) | Medium     |
