@@ -23,7 +23,7 @@ public class BinaryTreeZigzagLevelOrderTraversalTest {
         root.right.right = new TreeNode(7);
         List<List<Integer>> expected = new ArrayList<>();
         expected.add(Collections.singletonList(3));
-        expected.add(Arrays.asList(9, 20));
+        expected.add(Arrays.asList(20, 9));
         expected.add(Arrays.asList(15, 7));
         assertEquals(expected, testObject.zigzagLevelOrder(root));
 
