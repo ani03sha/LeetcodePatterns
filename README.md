@@ -75,6 +75,7 @@ Connect with me via
 
 ## Binary Search
 
-| #   | Title                                                         | Solution                                                                                                                                       | Difficulty |
-|-----|---------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|------------|
-| 1   | [Binary Search](https://leetcode.com/problems/binary-search/) | [Solution](https://github.com/ani03sha/LeetcodePatterns/blob/main/src/main/java/org/redquark/leetcode/patterns/binarysearch/BinarySearch.java) | Easy       |
+| #   | Title                                                                                                               | Solution                                                                                                                                                              | Difficulty |
+|-----|---------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
+| 1   | [Binary Search](https://leetcode.com/problems/binary-search/)                                                       | [Solution](https://github.com/ani03sha/LeetcodePatterns/blob/main/src/main/java/org/redquark/leetcode/patterns/binarysearch/BinarySearch.java)                        | Easy       |
+| 2   | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | [Solution](https://github.com/ani03sha/LeetcodePatterns/blob/main/src/main/java/org/redquark/leetcode/patterns/binarysearch/FindSmallestLetterGreaterThanTarget.java) | Easy       |
