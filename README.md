@@ -72,3 +72,9 @@ Connect with me via
 | 14  | [Generalized Abbreviation](https://leetcode.com/problems/generalized-abbreviation/)                           | [Solution](https://github.com/ani03sha/LeetcodePatterns/blob/main/src/main/java/org/redquark/leetcode/patterns/backtracking/GeneralizedAbbreviation.java)          | Medium     |
 | 15  | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)                                                 | [Solution](https://github.com/ani03sha/LeetcodePatterns/blob/main/src/main/java/org/redquark/leetcode/patterns/backtracking/SudokuSolver.java)                     | Hard       |
 | 16  | [N-Queens](https://leetcode.com/problems/n-queens/)                                                           | [Solution](https://github.com/ani03sha/LeetcodePatterns/blob/main/src/main/java/org/redquark/leetcode/patterns/backtracking/NQueens.java)                          | Hard       |
+
+## Binary Search
+
+| #   | Title                                                         | Solution                                                                                                                                       | Difficulty |
+|-----|---------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|------------|
+| 1   | [Binary Search](https://leetcode.com/problems/binary-search/) | [Solution](https://github.com/ani03sha/LeetcodePatterns/blob/main/src/main/java/org/redquark/leetcode/patterns/binarysearch/BinarySearch.java) | Easy       |
