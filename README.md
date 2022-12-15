@@ -98,3 +98,4 @@ Connect with me via
 |-----|-----------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|------------|
 | 1   | [Missing Number](https://leetcode.com/problems/missing-number/) | [Solution](https://github.com/ani03sha/LeetcodePatterns/blob/main/src/main/java/org/redquark/leetcode/patterns/bitmanipulation/MissingNumber.java) | Easy       |
 | 2   | [Single Number](https://leetcode.com/problems/single-number/)   | [Solution](https://github.com/ani03sha/LeetcodePatterns/blob/main/src/main/java/org/redquark/leetcode/patterns/bitmanipulation/SingleNumber.java)  | Easy       |
+| 3   | [Counting Bits](https://leetcode.com/problems/counting-bits/)   | [Solution](https://github.com/ani03sha/LeetcodePatterns/blob/main/src/main/java/org/redquark/leetcode/patterns/bitmanipulation/CountingBits.java)  | Easy       |
