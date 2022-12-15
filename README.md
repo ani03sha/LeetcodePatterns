@@ -91,3 +91,9 @@ Connect with me via
 | 12  | [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)                                   | [Solution](https://github.com/ani03sha/LeetcodePatterns/blob/main/src/main/java/org/redquark/leetcode/patterns/binarysearch/FindKClosestElements.java)                | Medium     |
 | 13  | [Count Of Range Sum](https://leetcode.com/problems/count-of-range-sum/)                                             | [Solution](https://github.com/ani03sha/LeetcodePatterns/blob/main/src/main/java/org/redquark/leetcode/patterns/binarysearch/CountOfRangeSum.java)                     | Hard       |
 | 14  | [Median Of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)                           | [Solution](https://github.com/ani03sha/LeetcodePatterns/blob/main/src/main/java/org/redquark/leetcode/patterns/binarysearch/MedianOfTwoSortedArrays.java)             | Hard       |
+
+## Bit Manipulation
+
+| #   | Title                                                           | Solution                                                                                                                                           | Difficulty |
+|-----|-----------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|------------|
+| 1   | [Missing Number](https://leetcode.com/problems/missing-number/) | [Solution](https://github.com/ani03sha/LeetcodePatterns/blob/main/src/main/java/org/redquark/leetcode/patterns/bitmanipulation/MissingNumber.java) | Easy       |
