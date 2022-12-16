@@ -105,3 +105,9 @@ Connect with me via
 | #   | Title                                                                             | Solution                                                                                                                                              | Difficulty |
 |-----|-----------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
 | 1   | [Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/) | [Solution](https://github.com/ani03sha/LeetcodePatterns/blob/main/src/main/java/org/redquark/leetcode/patterns/bucketsort/MaximumFrequencyStack.java) | Hard       |
+
+## Depth First Search
+
+| #   | Title                                                                                       | Solution                                                                                                                                          | Difficulty |
+|-----|---------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|------------|
+| 1   | [Minimum Depth Of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Solution](https://github.com/ani03sha/LeetcodePatterns/blob/main/src/main/java/org/redquark/leetcode/patterns/dfs/MinimumDepthOfBinaryTree.java) | Easy       |
