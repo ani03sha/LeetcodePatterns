@@ -115,3 +115,9 @@ Connect with me via
 | 3   | [Path Sum](https://leetcode.com/problems/path-sum/)                                         | [Solution](https://github.com/ani03sha/LeetcodePatterns/blob/main/src/main/java/org/redquark/leetcode/patterns/dfs/PathSum.java)                  | Easy       |
 | 4   | [Maximum Depth Of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Solution](https://github.com/ani03sha/LeetcodePatterns/blob/main/src/main/java/org/redquark/leetcode/patterns/dfs/MaximumDepthOfBinaryTree.java) | Easy       |
 | 5   | [Diameter Of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)           | [Solution](https://github.com/ani03sha/LeetcodePatterns/blob/main/src/main/java/org/redquark/leetcode/patterns/dfs/DiameterOfBinaryTree.java)     | Easy       |
+
+## Dynamic Programming
+
+| #   | Title                                                             | Solution                                                                                                                                               | Difficulty |
+|-----|-------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
+| 1   | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Solution](https://github.com/ani03sha/LeetcodePatterns/blob/main/src/main/java/org/redquark/leetcode/patterns/dynamicprogramming/ClimbingStairs.java) | Easy       |
