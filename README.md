@@ -118,6 +118,7 @@ Connect with me via
 
 ## Dynamic Programming
 
-| #   | Title                                                             | Solution                                                                                                                                               | Difficulty |
-|-----|-------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
-| 1   | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Solution](https://github.com/ani03sha/LeetcodePatterns/blob/main/src/main/java/org/redquark/leetcode/patterns/dynamicprogramming/ClimbingStairs.java) | Easy       |
+| #   | Title                                                                                   | Solution                                                                                                                                                       | Difficulty |
+|-----|-----------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
+| 1   | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                       | [Solution](https://github.com/ani03sha/LeetcodePatterns/blob/main/src/main/java/org/redquark/leetcode/patterns/dynamicprogramming/ClimbingStairs.java)         | Easy       |
+| 2   | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | [Solution](https://github.com/ani03sha/LeetcodePatterns/blob/main/src/main/java/org/redquark/leetcode/patterns/dynamicprogramming/RangeSumQueryImmutable.java) | Easy       |
