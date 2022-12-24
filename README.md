@@ -136,4 +136,4 @@ Connect with me via
 | 14  | [Decode Ways](https://leetcode.com/problems/decode-ways/)                                       | [Solution](https://github.com/ani03sha/LeetcodePatterns/blob/main/src/main/java/org/redquark/leetcode/patterns/dynamicprogramming/DecodeWays.java)                   | Medium     |
 | 15  | [Unique Paths](https://leetcode.com/problems/unique-paths/)                                     | [Solution](https://github.com/ani03sha/LeetcodePatterns/blob/main/src/main/java/org/redquark/leetcode/patterns/dynamicprogramming/UniquePaths.java)                  | Medium     |
 | 16  | [Jump Game](https://leetcode.com/problems/jump-game/)                                           | [Solution](https://github.com/ani03sha/LeetcodePatterns/blob/main/src/main/java/org/redquark/leetcode/patterns/dynamicprogramming/JumpGame.java)                     | Medium     |
-    
+| 17  | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)                 | [Solution](https://github.com/ani03sha/LeetcodePatterns/blob/main/src/main/java/org/redquark/leetcode/patterns/dynamicprogramming/PalindromicSubstrings.java)        | Medium     |
