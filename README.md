@@ -135,4 +135,5 @@ Connect with me via
 | 13  | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)                         | [Solution](https://github.com/ani03sha/LeetcodePatterns/blob/main/src/main/java/org/redquark/leetcode/patterns/dynamicprogramming/CombinationSumIV.java)             | Medium     |
 | 14  | [Decode Ways](https://leetcode.com/problems/decode-ways/)                                       | [Solution](https://github.com/ani03sha/LeetcodePatterns/blob/main/src/main/java/org/redquark/leetcode/patterns/dynamicprogramming/DecodeWays.java)                   | Medium     |
 | 15  | [Unique Paths](https://leetcode.com/problems/unique-paths/)                                     | [Solution](https://github.com/ani03sha/LeetcodePatterns/blob/main/src/main/java/org/redquark/leetcode/patterns/dynamicprogramming/UniquePaths.java)                  | Medium     |
+| 16  | [Jump Game](https://leetcode.com/problems/jump-game/)                                           | [Solution](https://github.com/ani03sha/LeetcodePatterns/blob/main/src/main/java/org/redquark/leetcode/patterns/dynamicprogramming/JumpGame.java)                     | Medium     |
     
