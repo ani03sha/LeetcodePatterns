@@ -131,3 +131,5 @@ Connect with me via
 | 9   | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)             | [Solution](https://github.com/ani03sha/LeetcodePatterns/blob/main/src/main/java/org/redquark/leetcode/patterns/dynamicprogramming/MaximumProductSubarray.java)       | Medium     |
 | 10  | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Solution](https://github.com/ani03sha/LeetcodePatterns/blob/main/src/main/java/org/redquark/leetcode/patterns/dynamicprogramming/LongestIncreasingSubsequence.java) | Medium     |
 | 11  | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)   | [Solution](https://github.com/ani03sha/LeetcodePatterns/blob/main/src/main/java/org/redquark/leetcode/patterns/dynamicprogramming/LongestPalindromicSubstring.java)  | Medium     |
+| 12  | [Word Break](https://leetcode.com/problems/word-break/)                                         | [Solution](https://github.com/ani03sha/LeetcodePatterns/blob/main/src/main/java/org/redquark/leetcode/patterns/dynamicprogramming/WordBreak.java)                    | Medium     |
+    
