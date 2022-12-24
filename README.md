@@ -133,4 +133,5 @@ Connect with me via
 | 11  | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)   | [Solution](https://github.com/ani03sha/LeetcodePatterns/blob/main/src/main/java/org/redquark/leetcode/patterns/dynamicprogramming/LongestPalindromicSubstring.java)  | Medium     |
 | 12  | [Word Break](https://leetcode.com/problems/word-break/)                                         | [Solution](https://github.com/ani03sha/LeetcodePatterns/blob/main/src/main/java/org/redquark/leetcode/patterns/dynamicprogramming/WordBreak.java)                    | Medium     |
 | 13  | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)                         | [Solution](https://github.com/ani03sha/LeetcodePatterns/blob/main/src/main/java/org/redquark/leetcode/patterns/dynamicprogramming/CombinationSumIV.java)             | Medium     |
+| 14  | [Decode Ways](https://leetcode.com/problems/decode-ways/)                                       | [Solution](https://github.com/ani03sha/LeetcodePatterns/blob/main/src/main/java/org/redquark/leetcode/patterns/dynamicprogramming/DecodeWays.java)                   | Medium     |
     
