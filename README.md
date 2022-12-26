@@ -116,6 +116,12 @@ Connect with me via
 | 4   | [Maximum Depth Of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Solution](https://github.com/ani03sha/LeetcodePatterns/blob/main/src/main/java/org/redquark/leetcode/patterns/dfs/MaximumDepthOfBinaryTree.java) | Easy       |
 | 5   | [Diameter Of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)           | [Solution](https://github.com/ani03sha/LeetcodePatterns/blob/main/src/main/java/org/redquark/leetcode/patterns/dfs/DiameterOfBinaryTree.java)     | Easy       |
 
+## Design
+
+| #   | Title                                                                                     | Solution                                                                                                                                  | Difficulty |
+|-----|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|------------|
+| 1   | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Solution](https://github.com/ani03sha/LeetcodePatterns/blob/main/src/main/java/org/redquark/leetcode/patterns/design/ImplementTrie.java) | Medium     |
+
 ## Dynamic Programming
 
 | #   | Title                                                                                                                         | Solution                                                                                                                                                                      | Difficulty |
