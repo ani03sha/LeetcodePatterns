@@ -118,9 +118,10 @@ Connect with me via
 
 ## Design
 
-| #   | Title                                                                                     | Solution                                                                                                                                  | Difficulty |
-|-----|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|------------|
-| 1   | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Solution](https://github.com/ani03sha/LeetcodePatterns/blob/main/src/main/java/org/redquark/leetcode/patterns/design/ImplementTrie.java) | Medium     |
+| #   | Title                                                                                                         | Solution                                                                                                                                                      | Difficulty |
+|-----|---------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
+| 1   | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)                     | [Solution](https://github.com/ani03sha/LeetcodePatterns/blob/main/src/main/java/org/redquark/leetcode/patterns/design/ImplementTrie.java)                     | Medium     |
+| 2   | [Serialize And Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [Solution](https://github.com/ani03sha/LeetcodePatterns/blob/main/src/main/java/org/redquark/leetcode/patterns/design/SerializeAndDeserializeBinaryTree.java) | Hard       |
 
 ## Dynamic Programming
 
